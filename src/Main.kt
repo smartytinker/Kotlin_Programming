@@ -46,5 +46,8 @@ fun main(args : Array<String>)
         println("hlo")
         age++
     }
+
+    var a : Int? = null
+    println(a)                  //printing a null value
 }
 
